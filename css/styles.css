@@ -1,0 +1,108 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: Helvetica;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #4682B4;
+    color: #E0FFFF;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 3px solid #E0FFFF8f;
+}
+
+/* Grid de Produtos */
+.container {
+    background-color: #F0FFFF;
+    min-height: 60vh;
+    padding: 50px;
+}
+
+.products-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.card {
+    width: 31%;
+    display: inline-block;
+    margin: 1% 1%;
+    padding: 15px;
+}
+
+.product-image {
+    height: 300px;
+    width: 100%;
+    margin-bottom: 10px;
+    background-position: center;
+    background-size: cover;
+}
+
+#img-1 {
+    background-image: url(../img/joia\ 1.jpg);
+}
+
+#img-2 {
+    background-image: url(../img/joia\ 2.jpg);
+}
+
+#img-3 {
+    background-image: url(../img/joia\ 3.jpg);
+}
+
+#img-4 {
+    background-image: url(../img/joia\ 4.jpg);
+}
+
+#img-5 {
+    background-image: url(../img/joia\ 5.jpg);
+}
+
+#img-6 {
+    background-image: url(../img/joia\ 6.jpg);
+}
+
+h3 {
+    margin-bottom: 10px;
+    color: #4682B4;
+    border-left: 5px solid #4682b9;
+    padding-left: 24px;
+    font-size: 24px;
+}
+
+.card p {
+    margin-bottom: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.btn {
+    display: block;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: #000;
+    color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+
+.btn:hover {
+    background-color: #778899;
+}
+
+/* Footer */
+footer {
+    background-color: #4682B4;
+    color: #B0C4DE;
+    border-top: 3px solid #E0FFFF8f;
+    text-align: center;
+    padding: 80px;
+}
