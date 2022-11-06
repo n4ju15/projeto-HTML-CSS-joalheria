@@ -8,7 +8,7 @@
 /* Cabeçalho */
 header {
     background-color: #4682B4;
-    color: #E0FFFF;
+    color: #B0C4DE;
     padding: 20px;
     text-align: center;
     border-bottom: 3px solid #E0FFFF8f;
@@ -102,7 +102,7 @@ h3 {
 footer {
     background-color: #4682B4;
     color: #B0C4DE;
-    border-top: 3px solid #E0FFFF8f;
+    border-top: 3px solid #E0FFFF;
     text-align: center;
     padding: 80px;
 }
