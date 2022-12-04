@@ -4,6 +4,10 @@ Este projeto foi desenvolvido em HTML e CSS, afim de demonstrar minha aprendizag
 
 ![screenshot](img/readme.png)
 
+ ## Conceitos
+
+- Introdução a CSS
+
 ## Tecnologias
 
 - HTML
