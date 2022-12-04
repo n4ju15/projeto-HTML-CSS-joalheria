@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido em HTML e CSS, afim de demonstrar minha aprendizagem após o primeiro contato com a área!
 
-![screenshot](images/readme.png)
+![screenshot](img/readme.png)
 
 ## Tecnologias
 
